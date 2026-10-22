@@ -1,4 +1,4 @@
-# ZO SAMURAI — Combat Suite (Protected)
+# ZO SAMURAI — Combat
 
 One protected build of the ZO SAMURAI
 (Kill Aura / Auto Block / Auto Parry / Skin Changer).
