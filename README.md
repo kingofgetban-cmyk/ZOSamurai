@@ -1,0 +1,2 @@
+# ZOSamurai
+Protected scripts
