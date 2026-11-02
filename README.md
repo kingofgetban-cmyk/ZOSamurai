@@ -1,16 +1,33 @@
-# ZO SAMURAI — Combat
+# MintraZERX — ZO Samurai
 
-One protected build of the ZO SAMURAI
-(Kill Aura / Auto Block / Auto Parry / Skin Changer).
-The source is never published — it is decrypted and executed in memory at runtime.
+> ⚠️ **SECURITY & DEPRECATION NOTICE**  
+> Direct execution of raw script files from GitHub has been **permanently disabled**.  
+> All payloads are now protected with dynamic AES-256 encryption, ephemeral sessions, and server-side distribution to prevent scraping and tampering.
 
-## Loader — protected source
+---
+
+## 🚀 How to Run the Official Secured Loader
+
+To use the latest updated and verified version of **ZO Samurai**, copy and execute the official bootstrapper script into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kingofgetban-cmyk/ZOSamurai/refs/heads/main/ZOSamurai.lua"))()
+loadstring(game:HttpGet("https://mintrazerx-keysystem-wf4n.onrender.com/mintrazerx.lua"))()
 ```
 
-Paste this line into any Roblox executor while you are in game.
-The window title follows the real game name, and the UI opens with `RightShift`.
+---
 
-Developers: TG: MintraZERX | Youtube: Valexcryzer
+## 🔑 License Key & Verification
+- **Redeem Key / Get Key:** [https://mintrazerx-keysystem-wf4n.onrender.com/redeem](https://mintrazerx-keysystem-wf4n.onrender.com/redeem)
+- **Official Gateway:** [https://mintrazerx-keysystem-wf4n.onrender.com](https://mintrazerx-keysystem-wf4n.onrender.com)
+
+---
+
+### 🛡️ Supported Executors:
+- Synapse X / Synapse Z
+- Delta Executor (Android & Windows)
+- Fluxus (Android & Windows)
+- Wave Executor
+- Codex Android / iOS
+- Macsploit
+
+*All Rights Reserved © 2026 MintraZERX Security Protocol.*
